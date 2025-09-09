@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowRight, MapPin, Star, Users, Mail } from "lucide-react";
