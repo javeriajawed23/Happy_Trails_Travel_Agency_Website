@@ -6,9 +6,9 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Wanderlust Travel - Discover Amazing Destinations",
+  title: "Happy Trails - Discover the World's Most Amazing Places",
   description:
-    "Book your dream vacation with Wanderlust Travel. Explore exotic destinations, luxury accommodations, and unforgettable experiences.",
+    "Book your dream vacation with Happy Trails. Explore exotic destinations, luxury accommodations, and unforgettable experiences.",
 };
 
 export default function RootLayout({ children }) {
